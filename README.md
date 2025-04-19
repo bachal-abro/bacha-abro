@@ -1,7 +1,7 @@
 <!-- Futuristic Space Header -->
-<img src="https://i.imgur.com/hbwWhdc.jpeg" alt="space-banner" width="100%" />
+<img src="https://static.vecteezy.com/system/resources/previews/015/277/563/non_2x/illustration-of-planet-space-futuristic-background-applicable-for-website-banner-poster-company-corporate-sign-header-landing-page-billboard-agency-ads-advertising-media-motion-picture-agency-vector.jpg" alt="space-banner" width="100%" />
 
-<h1 align="center">🌌 Bachal Abro — Navigating the Dev Universe 🚀</h1>
+<h1 align="center">🌌 Muhammad Bachal — Navigating the Dev Universe 🚀</h1>
 <p align="center">
   <i>Exploring the frontiers of Web3, AI, and the digital cosmos one project at a time.</i>
 </p>
