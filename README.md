@@ -6,18 +6,15 @@
   <i>Exploring the frontiers of Web3, AI, and the digital cosmos one project at a time.</i>
 </p>
 
----
 
 ### 🧑‍🚀 About Me
 
-```markdown
 - 👽 I'm Bachal Abro, a Data Science undergrad and self-taught developer on a mission to reshape the web.
 - 🚀 Founder of **Nezumi**, a next-gen Web3 video platform.
 - 🧠 Passionate about building tools that solve real-world problems using AI & Blockchain.
 - 🌍 Based on Earth, but mind’s orbiting in space.
 - 🧩 Currently working on: `Digital Mirror - Procrastination Breaker`.
 
----
 
 ### 🛸 Tech Galaxy
 
@@ -34,15 +31,11 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
 ### 🛰️ Projects in Orbit
 
 - 🔭 [**Nezumi**](https://github.com/bachal-abro/nezumi): A futuristic, decentralized video platform for creators of the new internet.
 - 🧠 [**Digital Mirror**](https://github.com/bachal-abro/digital-mirror): A productivity booster that reflects your procrastination in real-time.
 - ⚙️ [**Smart Contracts Toolkit**](https://github.com/bachal-abro): A boilerplate for EVM smart contracts with best practices.
-
----
 
 ### 📡 Activity Radar
 
@@ -54,8 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachal-abro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -63,8 +54,6 @@
   <a href="https://linkedin.com/in/bachal-abro" target="_blank"><img src="https://img.shields.io/badge/-Bachal%20Abro-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:bachalabro@pm.me" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
-
----
 
 ### 👾 Space Logs
 
