@@ -1,5 +1,5 @@
 <!-- Futuristic Space Header -->
-<img src="https://chatgpt.com/s/m_68065f246904819185f271fc5cc32837" alt="space-banner" width="100%" />
+<img src="banner.png" alt="space-banner" width="100%" />
 
 <h1 align="center">🌌 Muhammad Bachal — Navigating the Dev Universe 🚀</h1>
 <p align="center">
