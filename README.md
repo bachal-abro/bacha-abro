@@ -1,5 +1,5 @@
 <!-- Futuristic Space Header -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV6dGc1ZHIxa3ZlYm4wNTJyanRtazZrMWx1eXFpeWs4bTVnOWU0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif" alt="space-banner" width="100%" />
+<img src="https://chatgpt.com/s/m_68065f246904819185f271fc5cc32837" alt="space-banner" width="100%" />
 
 <h1 align="center">🌌 Muhammad Bachal — Navigating the Dev Universe 🚀</h1>
 <p align="center">
