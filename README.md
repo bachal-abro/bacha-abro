@@ -1,5 +1,5 @@
 <!-- Futuristic Space Header -->
-<img src="https://static.vecteezy.com/system/resources/previews/015/277/563/non_2x/illustration-of-planet-space-futuristic-background-applicable-for-website-banner-poster-company-corporate-sign-header-landing-page-billboard-agency-ads-advertising-media-motion-picture-agency-vector.jpg" alt="space-banner" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV6dGc1ZHIxa3ZlYm4wNTJyanRtazZrMWx1eXFpeWs4bTVnOWU0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif" alt="space-banner" width="100%" />
 
 <h1 align="center">🌌 Muhammad Bachal — Navigating the Dev Universe 🚀</h1>
 <p align="center">
@@ -9,8 +9,7 @@
 
 ### 🧑‍🚀 About Me
 
-- 👽 I'm Bachal Abro, a Data Science undergrad and self-taught developer on a mission to reshape the web.
-- 🚀 Founder of **Nezumi**, a next-gen Web3 video platform.
+- 👽 I'm Muhammad Bachal, a Data Science undergrad and self-taught developer on a mission to reshape the web.
 - 🧠 Passionate about building tools that solve real-world problems using AI & Blockchain.
 - 🌍 Based on Earth, but mind’s orbiting in space.
 - 🧩 Currently working on: `Digital Mirror - Procrastination Breaker`.
