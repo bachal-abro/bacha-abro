@@ -12,7 +12,7 @@
 - 👽 I'm Muhammad Bachal, a Data Science undergrad and self-taught developer on a mission to reshape the web.
 - 🧠 Passionate about building tools that solve real-world problems using AI & Blockchain.
 - 🌍 Based on Earth, but mind’s orbiting in space.
-- 🧩 Currently working on: `Digital Mirror - Procrastination Breaker`.
+- 🧩 Currently working on: `Vibetube - A video streaming platform`.
 
 
 ### 🛸 Tech Galaxy
@@ -32,9 +32,7 @@
 
 ### 🛰️ Projects in Orbit
 
-- 🔭 [**Nezumi**](https://github.com/bachal-abro/nezumi): A futuristic, decentralized video platform for creators of the new internet.
-- 🧠 [**Digital Mirror**](https://github.com/bachal-abro/digital-mirror): A productivity booster that reflects your procrastination in real-time.
-- ⚙️ [**Smart Contracts Toolkit**](https://github.com/bachal-abro): A boilerplate for EVM smart contracts with best practices.
+- 🎵 [**Vibify**]([https://github.com/bachal-abro/nezumi](https://vibify-alpha.vercel.app/)): A platform that uses advanced AI to analyze your images and create personalized music recommedations that match the mood, colors, and content of your photos.
 
 ### 📡 Activity Radar
 
