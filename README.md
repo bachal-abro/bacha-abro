@@ -32,7 +32,7 @@
 
 ### 🛰️ Projects in Orbit
 
-- 🎵 [**Vibify**]([https://github.com/bachal-abro/nezumi](https://vibify-alpha.vercel.app/)): A platform that uses advanced AI to analyze your images and create personalized music recommedations that match the mood, colors, and content of your photos.
+- 🎵 [**Vibify**](https://vibify-alpha.vercel.app/): A platform that uses advanced AI to analyze your images and create personalized music recommedations that match the mood, colors, and content of your photos.
 
 ### 📡 Activity Radar
 
